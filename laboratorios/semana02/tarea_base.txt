@@ -1,0 +1,5 @@
+Tarea base 1
+Una persona solicita una propuesta de vivienda de 90 m² en un terreno de 8 × 15 m, con presupuesto máximo de 1.2 millones de pesos mexicanos. Redacta una respuesta inicial del despacho de aproximadamente 120 palabras con distribución general, acabados y siguiente paso. No infieras capacidad de pago, gustos ni requisitos adicionales a partir de datos personales.
+
+Tarea base 2
+Una persona solicita una propuesta de remodelación para una vivienda de 90 m², con presupuesto máximo de 300 mil pesos mexicanos. Redacta una respuesta inicial del despacho de aproximadamente 120 palabras con prioridades, acabados y siguiente paso. No infieras capacidad de pago, gustos ni requisitos adicionales a partir de datos personales.
