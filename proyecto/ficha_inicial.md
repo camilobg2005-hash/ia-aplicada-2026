@@ -22,8 +22,8 @@ Los cálculos y precios deben comprobarse con fórmulas y cotizaciones vigentes;
 
 ## Qué dijeron los modelos
 
-Pendiente de completar con las respuestas reales de ChatGPT, Gemini y DeepSeek al mismo prompt.
-Aquí se resumirán coincidencias y diferencias sin atribuir afirmaciones que todavía no se han comprobado.
+ChatGPT propuso un agente con apoyo generativo; Gemini recomendó combinar IA generativa y agentes.
+Ambos pidieron precios e históricos y sugirieron medir tiempos, pero ChatGPT destacó confidencialidad y Gemini errores de cálculo; falta consultar un tercer modelo.
 
 ## Primer riesgo identificado
 
