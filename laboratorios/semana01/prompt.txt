@@ -1,0 +1,13 @@
+Actúa como consultor en inteligencia artificial. Trabajo en arquitectura y tengo este problema: En la elaboración manual de presupuestos de obra, el personal debe calcular cantidades de materiales, mano de obra, maquinaria y costos unitarios. El equipo que prepara presupuestos invierte tiempo en revisar hojas de cálculo y modificar numerosos datos cuando cambia el proyecto. Como estimación preliminar, esto podría ocupar entre 6 y 10 horas por semana; la cifra debe comprobarse con un registro real.
+
+Responde en español con esta estructura:
+
+1. Qué tipo de IA (predictiva, generativa o agente) es más adecuado para este problema y por qué.
+
+2. Qué datos se necesitarían y de dónde saldrían.
+
+3. Un riesgo ético o de privacidad que debería considerarse.
+
+4. Un primer paso concreto que podría hacer esta semana sin programar.
+
+Limita la respuesta a 250 palabras.
