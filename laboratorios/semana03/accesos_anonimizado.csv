@@ -1,0 +1,39 @@
+﻿id_persona,semana,franja,area,tipo_empresa,motivo
+P018,32,Mañana,Obra Norte,Constructora,Supervisión
+P005,32,Mañana,Obra Norte,Constructora,Supervision
+P003,32,Mañana,Oficina Central,Diseño,Entrega De Planos
+P029,32,Noche,Sala De Servidores,Soporte TI,Mantenimiento
+P023,32,Mañana,Oficina Central,No registrada,Entrevista
+P016,Sin fecha,Mañana,Obra Sur,Constructora,Supervisión
+P003,32,Mañana,Oficina Central,Diseño,Entrega De Planos
+P031,32,Madrugada,Sala De Servidores,Soporte TI,Mantenimiento
+P034,32,Tarde,Obra Norte,Constructora,Visita Cliente
+P020,32,Noche,Sala De Servidores,Soporte TI,Mantenimiento
+P010,33,Mañana,Obra Norte,Constructora,Supervisión
+P037,33,Mañana,Oficina Central,Diseño,Entrega De Planos
+P024,33,Tarde,Obra Sur,Constructora,Visita Cliente
+P028,34,Noche,Sala De Servidores,Soporte TI,Mantenimiento
+P015,34,Mañana,Obra Norte,Constructora,Supervisión
+P009,35,Noche,Oficina Central,Diseño,Entrega De Planos
+P008,35,Tarde,Obra Sur,Constructora,Visita Cliente
+P026,36,Noche,Sala De Servidores,Soporte TI,Mantenimiento
+P004,32,Mañana,Obra Norte,Constructora,Supervisión
+P014,33,Mañana,Oficina Central,Diseño,Entrega De Planos
+P036,33,Tarde,Obra Sur,Constructora,Visita Cliente
+P006,33,Noche,Sala De Servidores,Soporte TI,Mantenimiento
+P013,34,Mañana,Obra Norte,Constructora,Supervisión
+P002,35,Mañana,Oficina Central,Diseño,Entrega De Planos
+P033,39,Tarde,Obra Sur,Constructora,Visita Cliente
+P019,40,Madrugada,Sala De Servidores,Soporte TI,Mantenimiento
+P012,37,Mañana,Obra Norte,Constructora,Supervisión
+P022,37,Mañana,Oficina Central,No registrada,Entrega De Planos
+P030,Sin fecha,Tarde,Obra Sur,Constructora,Visita Cliente
+P017,38,Noche,Sala De Servidores,Soporte TI,Mantenimiento
+P027,38,Mañana,Obra Norte,Constructora,Supervisión
+P011,37,Mañana,Oficina Central,Diseño,Entrega De Planos
+P032,39,Tarde,Obra Sur,Constructora,Visita Cliente
+P007,40,Noche,Sala De Servidores,No registrada,Mantenimiento
+P021,37,Mañana,Obra Norte,Constructora,Supervisión
+P025,37,Madrugada,Oficina Central,Diseño,Entrega De Planos
+P035,39,Mañana,Oficina Central,Diseño,Entrega De Planos
+P001,39,Tarde,Obra Sur,Constructora,Visita Cliente
