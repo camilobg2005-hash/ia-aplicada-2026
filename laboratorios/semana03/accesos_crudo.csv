@@ -1,0 +1,43 @@
+﻿id,nombre,correo,telefono,fecha_acceso,hora_entrada,area,empresa,motivo
+1,Laura Méndez Ruiz,laura.mendez@correo.com,5512345678,2026-08-03,08:15,Obra norte,Constructora Alfa,Supervisión
+2,Carlos Ibáñez,CARLOS.IBANEZ@CORREO.COM,55 9876 5432,03/08/2026,8:20,obra norte,Constructora Alfa,supervision
+3,Ana Torres,ana.torres@correo.com,,2026-08-03,09:05,Oficina central,Diseño Beta,Entrega de planos
+4,Laura Méndez Ruiz,laura.mendez@correo.com,5512345678,2026-08-03,08:15,Obra norte,Constructora Alfa,Supervisión
+5,Pedro Salgado,pedro.salgado@correo,5511122233,2026-08-04,23:40,Sala de servidores,Soporte TI Gamma,Mantenimiento
+6,Mariana Cruz,mariana.cruz@correo.com,5544455566,2026-08-04,10:00,Oficina central,,Entrevista
+7,Jorge Luna,jorge.luna@correo.com,5577788899,2026-13-04,11:30,Obra sur,Constructora Alfa,Supervisión
+8,ana torres,ana.torres@correo.com,5566677788,2026-08-05,09:10,Oficina central,Diseño Beta,Entrega de planos
+9,Roberto Peña,roberto.pena@correo.com,5599900011,2026-08-05,02:15,Sala de servidores,Soporte TI Gamma,Mantenimiento
+10,Sofía Herrera,sofia.herrera@correo.com,5522233344,2026-08-05,14:00,Obra norte,Constructora Alfa,Visita cliente
+11,Lucía Castañeda,lucia.castaneda@correo.com,0000000011,2026-08-06,19:05,Sala de servidores,Soporte TI Gamma,Mantenimiento
+12,Emilio Figueroa,emilio.figueroa@correo.com,0000000012,2026-08-09,08:35,Obra norte,Constructora Alfa,Supervisión
+13,Valeria Montero,valeria.montero@correo.com,0000000013,09/08/2026,10:20,Oficina central,Diseño Beta,Entrega de planos
+14,Mateo Galván,MATEO.GALVAN@CORREO.COM,0000000014,2026-08-15,15:10,obra sur,Constructora Alfa,Visita cliente
+15,Paula Rosales,paula.rosales@correo.com,0000000015,2026-08-18,19:05,Sala de servidores,Soporte TI Gamma,Mantenimiento
+16,Iván Robledo,ivan.robledo@correo.com,,2026-08-21,08:35,Obra norte,Constructora Alfa,Supervisión
+17,Elena Cordero,elena.cordero@correo.com,0000000017,2026-08-24,23:10,Oficina central,Diseño Beta,Entrega de planos
+18,Diego Peralta,diego.peralta@correo.com,00 0000 0018,2026-08-27,15:10,Obra sur,Constructora Alfa,Visita cliente
+19,Nadia Cervantes,nadia.cervantes@correo.com,0000000019,2026-08-30,19:05,Sala de servidores,Soporte TI Gamma,Mantenimiento
+20,Bruno Valdés,bruno.valdes@correo.com,0000000020,2026-08-08,08:35,Obra norte,Constructora Alfa,Supervisión
+21,Inés Pacheco,ines.pacheco@correo.com,0000000021,2026-08-11,10:20,Oficina central,Diseño Beta,Entrega de planos
+22,Tomás Rentería,tomas.renteria@correo.com,0000000022,2026-08-14,15:10,obra sur,Constructora Alfa,Visita cliente
+23,Clara Escobedo,clara.escobedo@correo.com,0000000023,14/08/2026,19:05,Sala de servidores,Soporte TI Gamma,Mantenimiento
+24,Hugo Beltrán,mara.becerra@correo,0000000024,2026-08-20,08:35,Obra norte,Constructora Alfa,Supervisión
+25,Alma Treviño,alma.trevino@correo.com,0000000025,2026-08-23,10:20,Oficina central,Diseño Beta,Entrega de planos
+26,Sergio Villaseñor,sergio.villasenor@correo.com,0000026,2026-09-26,15:10,Obra sur,Constructora Alfa,Visita cliente
+27,Lidia Armenta,  LIDIA.ARMENTA@CORREO.COM  ,0000000027,2026-09-29,04:25,Sala de servidores,Soporte TI Gamma,Mantenimiento
+28,Gael Varela,gael.varela@correo.com,,2026-09-07,08:35,Obra norte,Constructora Alfa,Supervisión
+29,Mara Becerra,mara.becerra@correo.com,0000000029,2026-09-10,10:20,Oficina central,,Entrega de planos
+30,Rafael Mijares,rafael.mijares@correo.com,0000000030,2026-09-32,15:10,Obra sur,Constructora Alfa,Visita cliente
+31,Julia Arteaga,julia.arteaga@correo.com,00 0000 0031,2026-09-16,19:05,Sala de servidores,Soporte TI Gamma,Mantenimiento
+32,Noé Carranza,noe.carranza@correo.com,0000000032,2026-09-19,08:35,Obra norte,Constructora Alfa,Supervisión
+33,Eva Medina,eva.medina@correo.com,0000000033,09/09/2026,10:20,Oficina central,Diseño Beta,Entrega de planos
+34,Samuel Zúñiga,samuel.zuniga@correo.com,0000000034,2026-09-25,15:10,Obra sur,Constructora Alfa,Visita cliente
+35,Dalia Quezada,dalia.quezada@correo.com,0000000035,2026-09-28,19:05,Sala de servidores,,Mantenimiento
+36,Luis Aranda,luis.aranda@correo.com,0000000036,2026-09-06,08:35,Obra norte,Constructora Alfa,Supervisión
+37,Mónica Ceballos,monica.ceballos@correo.com,0000000037,2026-09-09,05:40,Oficina central,Diseño Beta,Entrega de planos
+38,Emilio Figueroa,emilio.figueroa@correo.com,0000000012,2026-08-09,08:35,Obra norte,Constructora Alfa,Supervisión
+39,Paula Rosales,paula.rosales@correo.com,0000000015,2026-08-18,19:05,Sala de servidores,Soporte TI Gamma,Mantenimiento
+40,mateo galván,  MATEO.GALVAN@CORREO.COM  ,0000000014,2026-08-15,15:10,OBRA SUR,Constructora Alfa,VISITA CLIENTE
+41,Teresa Luján,teresa.lujan@correo.com,0000000041,2026-09-21,10:20,Oficina central,Diseño Beta,Entrega de planos
+42,Adrián Meza,adrian.meza@correo.com,0000000042,2026-09-24,15:10,Obra sur,Constructora Alfa,Visita cliente
