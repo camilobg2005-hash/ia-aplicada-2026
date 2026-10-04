@@ -1,0 +1,8 @@
+﻿ID,Dato,Origen,Categoría,Riesgo,Justificación y tratamiento
+D1,"Nombre, correo y teléfono del cliente",Expediente inicial,Personal,Alta,Identifica y permite contactar a una persona; acceso limitado al responsable.
+D2,Domicilio exacto del predio,Formulario y croquis de obra,Personal,Crítica,Al vincularse al cliente revela ubicación de la vivienda; pérdida o difusión expone privacidad y seguridad física.
+D3,Planos arquitectónicos vinculados al expediente,Archivo técnico,Personal,Alta,"La distribución de la vivienda, vinculada con D1 y D2, permite inferir hábitos y puntos de acceso."
+D4,"Superficie, cantidades y materiales sin identificadores",Presupuesto técnico,No personal,Media,Se pueden estimar costos con partidas sin revelar al titular ni la dirección.
+D5,Precios unitarios de proveedores sin contacto personal,Cotizaciones,No personal,Media,Puede haber confidencialidad comercial; retirar nombres y condiciones individualizadas.
+D6,Costo de mano de obra agregado por oficio y periodo,Presupuesto de obra,No personal,Media,Solo agregados; no se incorpora nómina individual.
+D7,Cronograma por fase y costo total agregado,Planeación,No personal,Media,Puede ser identificable al combinarse con D1 o D2; mantenerlo disociado.
