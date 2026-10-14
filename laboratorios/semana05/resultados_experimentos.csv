@@ -1,0 +1,9 @@
+experimento,condicion,valor,estado
+Tokens,documento completo,3658,Estimacion no verificada
+Contexto,1 copia,3658,Estimacion no verificada
+Contexto,2 copias,7316,Estimacion no verificada
+Contexto,4 copias,14632,Estimacion no verificada
+Contexto,8 copias,29264,Estimacion no verificada
+Temperatura,0,,No ejecutado
+Temperatura,0.7,,No ejecutado
+Temperatura,1.5,,No ejecutado
