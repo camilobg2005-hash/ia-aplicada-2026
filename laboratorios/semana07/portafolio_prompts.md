@@ -7,9 +7,6 @@
 ## Objetivo
 Convertir descripciones libres de clientes en una ficha uniforme de uso, superficie, ventilación, iluminación, normativa aplicable e información faltante, sin inventar datos.
 
-## Modelo probado
-ChatGPT (GPT-5.6 Sol).
-
 ## Plantilla adoptada
 Se adoptó la iteración 3 (rol + contexto + formato).
 
