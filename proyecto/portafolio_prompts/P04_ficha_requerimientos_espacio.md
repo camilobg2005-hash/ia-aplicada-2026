@@ -3,12 +3,6 @@
 ## Objetivo
 Convertir una descripción libre de cliente en una ficha uniforme que pueda alimentar etapas posteriores del asistente de presupuestos, sin completar datos que no fueron proporcionados.
 
-## Modelo y configuración
-- Modelo: ChatGPT (GPT-5.6 Sol).
-- Temperatura: configuración de ChatGPT, no controlada manualmente.
-- Fecha de ejecución: 2026-10-25.
-- Procedencia: Laboratorio Semana 7, mejora iterativa de prompts con métricas.
-
 ## Versión adoptada
 La versión adoptada fue la **iteración 3: rol + contexto + formato**.
 
