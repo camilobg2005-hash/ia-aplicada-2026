@@ -15,9 +15,3 @@ Fecha: 25 de octubre de 2026
 - `plantilla_prompt_v1.md`: plantilla reutilizable adoptada.
 - `portafolio_prompts.md`: actualización resumida del portafolio.
 - `reflexion_final.md`: reflexión final.
-
-## Declaración de uso de IA
-
-Se utilizó ChatGPT (GPT-5.6 Sol) para ejecutar las iteraciones del laboratorio, organizar las evidencias y redactar el reporte. Las tres entradas originales y la cuarta entrada de robustez son ficticias, como permite la guía. La evaluación se realizó con la misma rúbrica en todas las iteraciones. No se completaron campos faltantes con datos inventados en la plantilla adoptada: se usa `NO ESPECIFICADO` y `CONTRADICTORIO` cuando corresponde.
-
-> El reporte APA 7 en Word/PDF y la hoja XLSX se entregan en el paquete descargable del chat; el repositorio conserva los archivos fuente requeridos por la guía.
