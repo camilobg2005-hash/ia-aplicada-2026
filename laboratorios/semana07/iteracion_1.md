@@ -1,6 +1,5 @@
 # Iteración 1 - Rol
 
-**Modelo usado:** ChatGPT (GPT-5.6 Sol)  
 **Fecha de ejecución:** 25 de octubre de 2026
 
 ## Prompt
