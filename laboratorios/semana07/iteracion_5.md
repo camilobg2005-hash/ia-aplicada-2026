@@ -1,6 +1,5 @@
 # Iteración 5 - Anterior + cadena de razonamiento
 
-**Modelo usado:** ChatGPT (GPT-5.6 Sol)  
 **Fecha de ejecución:** 25 de octubre de 2026
 
 ## Cambio aplicado
