@@ -1,6 +1,5 @@
 # Iteración 0 - Línea base (zero-shot)
 
-**Modelo usado:** ChatGPT (GPT-5.6 Sol)  
 **Fecha de ejecución:** 25 de octubre de 2026
 
 ## Prompt
