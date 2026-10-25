@@ -1,0 +1,7 @@
+Iteración,Técnica aplicada,Criterio 1,Criterio 2,Criterio 3,Total,Observación
+0,Línea base (zero-shot),6,3,1,10,"El formato varió y el modelo agregó requisitos no dados, especialmente en las entradas 2 y 3."
+1,Rol,6,3,3,12,"El rol mejoró el lenguaje profesional, pero todavía aparecieron supuestos concretos en casos incompletos o ambiguos."
+2,Rol + contexto,6,3,5,14,"El contexto redujo supuestos y mejoró el tratamiento de datos faltantes, aunque una recomendación mecánica no sustentada afectó C3 en la entrada 3."
+3,Rol + contexto + formato,6,6,6,18,"El formato exacto y la regla NO ESPECIFICADO/CONTRADICTORIO eliminaron supuestos y estandarizaron la salida."
+4,Anterior + ejemplos (few-shot),6,6,6,18,"El ejemplo confirmó el patrón esperado, pero no mejoró el puntaje respecto a la iteración 3."
+5,Anterior + cadena de razonamiento,6,3,6,15,"El análisis explícito conservó C1 y C3, pero agregó texto fuera de la tabla y redujo C2."
