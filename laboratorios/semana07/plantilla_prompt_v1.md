@@ -36,6 +36,5 @@ Texto del cliente:
 - **`{CONTEXTO_PROYECTO}`:** frase breve sobre origen y propósito del texto.
 - **`{MARCADOR_FALTANTE}`:** usar `NO ESPECIFICADO` para conservar el comportamiento probado.
 - **`{ENTRADA}`:** descripción original del cliente, sin completar datos por cuenta propia.
-- **Modelo probado:** ChatGPT (GPT-5.6 Sol), 25 de octubre de 2026.
 - **Puntaje obtenido:** 18/18 con las tres entradas originales y 6/6 en robustez.
 - **Limitaciones:** no verifica por sí sola la normativa, no sustituye un levantamiento físico y no calcula cumplimiento de iluminación o ventilación.
