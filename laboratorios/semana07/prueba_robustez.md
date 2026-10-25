@@ -1,7 +1,6 @@
 # Prueba de robustez
 
 **Prompt adoptado:** Iteración 3 (rol + contexto + formato).  
-**Modelo:** ChatGPT (GPT-5.6 Sol).  
 **Fecha:** 25 de octubre de 2026.
 
 ## Cuarta entrada nueva
