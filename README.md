@@ -14,6 +14,3 @@
 - `videos/` — enlaces a los videos semanales de tres minutos
 - `proyecto/` — avances del proyecto integrador
 
-## Declaración de uso de IA
-
-En este repositorio documento cuándo y cómo uso herramientas de IA generativa en cada entrega.
