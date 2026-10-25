@@ -1,6 +1,5 @@
 # Iteración 4 - Anterior + ejemplos (few-shot)
 
-**Modelo usado:** ChatGPT (GPT-5.6 Sol)  
 **Fecha de ejecución:** 25 de octubre de 2026
 
 ## Cambio aplicado
